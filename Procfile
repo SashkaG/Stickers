@@ -1,1 +1,1 @@
-python manage.py Stickers.py
+worker: python Stickers.py
